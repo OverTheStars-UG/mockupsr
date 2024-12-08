@@ -1,0 +1,14 @@
+_iub.csRC = { consApiKey: 'tH39JyzPsVT6b24zMyZ9y64flZ3Xp0pD' }
+_iub.csEnabled = true;
+_iub.csPurposes = [3,4,5,1];
+_iub.cpUpd = 1709921779;
+_iub.csFeatures = {
+  geolocation_setting: false,
+  cookie_solution_white_labeling: 1,
+  rejection_recovery: false,
+  full_customization: true,
+  multiple_languages: "it",
+  mobile_app_integration: false
+};
+_iub.csT = null;
+_iub.googleConsentModeV2 = true;
